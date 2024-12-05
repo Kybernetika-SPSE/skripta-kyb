@@ -1,6 +1,6 @@
 # Kybernetika
 ---
-- ## Skripta budu připravovat podle seznamu maturitních otázek [zde]("pages/Maturitní otázky KYB ročník 2024-2025")
+- ## Skripta budu připravovat podle seznamu maturitních otázek [zde](pages/Maturitní otázky KYB ročník 2024-2025)
   
   
   *Stará nedokončená verze skript je [zde.](./kybernetika_old/obsah.md) 
