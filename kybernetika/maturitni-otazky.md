@@ -1,4 +1,5 @@
 # Maturitní otázky KYB ročník 2024-2025
+title:: maturitni-otazky
 
 1. [Základní principy](./chapters/zakladni_principy.md) a [pojmy kybernetiky](./chapters/systems_CZ.md) (anglická verze: [here](./chapters/systems.md))
 2. [Klasifikace systémů](./chapters/systems_CZ.md) (anglická verze: [here](./chapters/systems.md))
