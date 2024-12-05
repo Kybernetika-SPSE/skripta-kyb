@@ -1,0 +1,3 @@
+- [[Teorie informace]]
+- [[PID regulátor]]
+- [[Systém]]
