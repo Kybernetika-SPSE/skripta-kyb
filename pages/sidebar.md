@@ -1,4 +1,3 @@
--
 - [Teorie Informace](teorie-informace.md)
 - [PID regulátor](pid-regulator.md)
 - [Systém](Systém.md)
