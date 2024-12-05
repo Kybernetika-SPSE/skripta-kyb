@@ -39,3 +39,10 @@ title:: maturitni-otazky
   10. Typy neuronových sítí
   11. Kombinační logické obvody
   12. Sekvenční logické obvody
+-
+-
+- [[Teorie informace]]
+- [[PID regulátor]]
+- [[Systém]]
+-
+- [[maturitni-otazky]]
