@@ -25,17 +25,17 @@
       window.$docsify = {
         name: "Učebnice pro KYB",
         basePath: "https://kybernetika-spse.github.io/skripta-kyb/pages",
-        // homepage: "https://kybernetika-spse.github.io/skripta-kyb/pages/home.md",
+        homepage: "home.md",
         
         // Sidebar Configuration
         auto2top: true,
-        loadSidebar: "pages/sidebar.md",
+        loadSidebar: "sidebar.md",
         loadNavbar: false,
         maxLevel: 0,
         // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
         subMaxLevel: 3,
         mergeNavbar: true,
-        notFoundPage: true,
+        notFoundPage: "404.md",
         // notFoundPage: "https://kybernetika-spse.github.io/skripta-kyb/_404.md",
         requestHeaders: {
           'cache-control': 'max-age=0',
