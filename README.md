@@ -14,7 +14,7 @@
   Ukázky kódů pro studium programování v pythonu jsou na google drive [zde.](https://drive.google.com/drive/folders/1s2Ro3sDp8V0Yys9CvbpZPHJfNEfkoyw1?usp=sharing)
   
   ---
-- ## LaTex
+- ## $L^A T_E X$
   Okaz na template je zde. Přihlašte se do svého účtu na Overleafu, pak můžete MENU->Copy Project a dále pracovat na svém textu.
   
   [odkaz na overleaf (read only)](https://www.overleaf.com/read/pzfsjzkfbygq#4a9376)
