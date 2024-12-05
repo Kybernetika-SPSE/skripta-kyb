@@ -41,8 +41,8 @@ title:: maturitni-otazky
   12. Sekvenční logické obvody
 -
 -
-- [[Teorie informace]]
-- [[PID regulátor]]
+- [[teorie-informace]]
+- [[pid-regulator]]
 - [[Systém]]
 -
 - [[maturitni-otazky]]

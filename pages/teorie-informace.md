@@ -1,4 +1,5 @@
 # Základy teorie informace
+title:: teorie-informace
 
 Teorie informace je matematická disciplína, která se zaměřuje na kvantifikaci, přenos a uchování informací. Původně byla vyvinuta pro účely komunikační techniky a zpracování signálů, ale její principy mají uplatnění v mnoha dalších oborech, od biologie po informatiku a statistiku. Obecně se jedná o pojem značně široký a často používaný v celé řadě definic, vymezujících nejen předmět kybernetiky.
 
@@ -143,8 +144,7 @@ Definice pojmu informace je velmi složitá. Obecně se tento pojem užívá ča
   > **Řešení:**
   > bylo při hodině :)
   >
-  
-  ## Jazyky a gramatiky
+- ## Jazyky a gramatiky
 - **přirozené jazyky** - vznikly jako prostředek komunikace mezi lidmi
 - **umělé jazyky** - byly vytvořeny pro speciální druhy komunikace a vznikly výslovnou dohodou
   

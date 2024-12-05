@@ -1,6 +1,6 @@
 -
-- [Teorie Informace](Teorie informace.md)
-- [PID regulátor](PID regulátor.md)
+- [Teorie Informace](teorie-informace.md)
+- [PID regulátor](pid-regulator.md)
 - [Systém](Systém.md)
 -
 - [Maturitní otázky 2025](maturitni-otazky.md)
